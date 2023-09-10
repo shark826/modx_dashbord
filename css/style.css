@@ -18,7 +18,16 @@
     color: inherit;
 }
 
-.blockurl .card:hover {
+.blockurl .cardurl:hover {
     color: rgba(0, 0, 0, 0.55);
     background-color: #0d6dfd0c;
+    border: 5px;
+    border-color: red;
+}
+.menumain {
+    font-weight: 600;
+    font-size: 1.0em;
+}
+.menumain a {
+    color:  #521bba;
 }
