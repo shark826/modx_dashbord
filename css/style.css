@@ -16,7 +16,10 @@
 .blockurl a {
     text-decoration: none;
     color: inherit;
+    font-size: 1.05em;
+   
 }
+
 
 .blockurl .cardurl:hover {
     color: rgba(0, 0, 0, 0.55);
@@ -26,7 +29,7 @@
 }
 .menumain {
     font-weight: 600;
-    font-size: 1.0em;
+    font-size: 1.1em;
 }
 .menumain a {
     color:  #521bba;
