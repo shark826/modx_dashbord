@@ -1,6 +1,6 @@
 ### Простой дашборд для кучи ссылок
 
-Написан на HTML+BootStrap, будет адаптирован для CMS Modx  
+Написан на HTML+BootStrap 5, будет адаптирован для CMS Modx  
   
   Screenshot:
 
